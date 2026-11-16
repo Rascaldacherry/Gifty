@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 260" fill="none"><defs>
+<linearGradient id="cream" x1="0" x2="1"><stop stop-color="#dfd1ba"/><stop offset=".45" stop-color="#eee4d2"/><stop offset="1" stop-color="#d8c6a9"/></linearGradient>
+<linearGradient id="sage" x1="0" x2="1"><stop stop-color="#8c9f7f"/><stop offset=".4" stop-color="#adba9f"/><stop offset="1" stop-color="#93a485"/></linearGradient>
+<linearGradient id="lavender" x1="0" x2="1"><stop stop-color="#a58fb7"/><stop offset=".5" stop-color="#c2aed0"/><stop offset="1" stop-color="#ae96c0"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c7d1ce"/><stop offset=".5" stop-color="#dce1db"/><stop offset="1" stop-color="#bbc9c5"/></linearGradient>
+<pattern id="mesh" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="#b59dc4"/><circle cx="1" cy="1" r=".6" fill="#9d84ad"/><path d="M0 3h4" stroke="#c4aed2" stroke-width=".5"/></pattern>
+<filter id="drop" x="-25%" y="-25%" width="150%" height="160%"><feDropShadow dx="2" dy="8" stdDeviation="5" flood-color="#6a5e69" flood-opacity=".1"/></filter>
+</defs><g filter="url(#drop)"><ellipse cx="132" cy="212" rx="55" ry="10" fill="#a9b49c"/><path d="M78 209c0-12 110-12 110 0v4H78Z" fill="#b4bfa7"/><path d="M132 203V92" stroke="#adB79e" stroke-width="7"/><path d="M72 102c2-83 119-83 122 0Z" fill="url(#sage)"/><ellipse cx="133" cy="102" rx="61" ry="11" fill="#d9dec8"/><ellipse cx="133" cy="102" rx="49" ry="6" fill="#e8e7cf"/><path d="M104 51c-12 10-18 22-20 35" stroke="#c7d0b9" stroke-width="3" stroke-linecap="round"/><path d="M162 120v50" stroke="#b4bba7" stroke-width="1"/><circle cx="162" cy="172" r="3" fill="#b3bba4"/></g></svg>

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "partner-your-stable-id",
+    "title": "Замените фактическим названием из разрешённого экспорта",
+    "description": "Замените описанием из источника",
+    "price_rub": 1000,
+    "image_url": "/products/book.svg",
+    "marketplace": "Ozon",
+    "product_url": null,
+    "category": "Книги",
+    "availability": "available",
+    "source": "authorized_export",
+    "last_updated": "2026-11-16T00:00:00Z",
+    "tags": ["Книги"],
+    "originality": 0.5,
+    "practicality": 0.8
+  }
+]
